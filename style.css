@@ -1,0 +1,36 @@
+h1, h2{
+    font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+h3, p{
+    font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+h3{
+    font-weight: 600;
+    font-size: 25px;
+}
+
+body{
+    background-color: lavender;
+}
+
+li{
+    list-style-type:circle;
+font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
